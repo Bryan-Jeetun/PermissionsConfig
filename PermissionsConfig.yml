@@ -258,7 +258,7 @@ servers:
             default: true
             prefix: '&f&l<&e&lAstro&f&l>&e'
             inheritance:
-            - trainee
+            - default
             permissions:
             - -auction.limit.1
             - -auction.limit.2
