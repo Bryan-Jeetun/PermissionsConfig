@@ -262,6 +262,7 @@ servers:
             permissions:
             - clientcomms.node.freeroam
             - clientcomms.node.breadcrumbs
+            - enchantments.max.18
             - schematica.save
             - schematica.load
             - essentials.gc
@@ -486,6 +487,7 @@ servers:
             prefix: '&f&l<&a&lAstro&e&l+&f&l>&e'
             inheritance:
             - astro
+            - default
             permissions:
             - -auction.limit.1
             - -auction.limit.2
@@ -534,6 +536,8 @@ servers:
             - playervaults.amount.999
             - astrocore.apollo
             - essentials.repair.all
+            - essentials.kit.apollo
+            - essentials.kits.apollo
             - essentials.warps.Interstellar
             - essentials.sethome.multiple.apollo
             inheritance:
