@@ -660,6 +660,7 @@ servers:
             - litebans.ban
             - litebans.tempban
             - litebans.ipban
+            - litebans.tempban
             - bm.command.tempban.offline
             - litebans.ban
             - bm.command.ban
@@ -683,6 +684,7 @@ servers:
             - cosmicseen.seen.alts
             - arkkit.teleportsanity.ignore
             - bm.command.ban.offline
+            - litebans.kick
             - bm.command.tempban.offline
             - bm.command.ban
             - essentials.teleport.timer.bypass
@@ -722,6 +724,8 @@ servers:
             - coreprotect.lookup.username
             - coreprotect.lookup.block
             - coreprotect.lookup.session
+            - essentials.tp
+            - essentials.tphere
             - coreprotect.inspect
             - vanish.standard
             - vanish.silentchests
@@ -786,6 +790,9 @@ servers:
             - banteam
             permissions:
             - essentials.gamemode.all
+            - playervaults.admin
+            - essentials.tp
+            - essentials.tphere
             - astrocore.staff
         admin:
             prefix: '&f&l<&9&lAdmin&f&l>&9'
