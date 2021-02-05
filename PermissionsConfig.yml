@@ -357,7 +357,7 @@ servers:
             - betterenderchest.command.viewinv.self
             - essentials.joinfullserver
         apollo:
-            prefix: '&f&l<&3&k;&r&b&lAPOLLO&3&k;&r&f&l>&b'
+            prefix: '&f&l<&b&lA&f&lp&b&lo&f&ll&b&ll&f&lo>&b'
             permissions:
             - enchantments.max.18
             - playervaults.amount.999
