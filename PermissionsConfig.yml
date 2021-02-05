@@ -8,6 +8,10 @@ servers:
             - schematica.load
             - essentials.gc
             - essentials.exp
+            - essentials.sell
+            - essentials.hand
+            - essentials.sell.all
+            - essentials.sell.bulk
             - auction.limit.1
             - essentials.warps.Nether
             - essentials.warps.Plains
@@ -269,6 +273,11 @@ servers:
             - essentials.exp
             - auction.limit.4
             - essentials.warps.Nether
+            - essentials.exp
+            - essentials.sell
+            - essentials.hand
+            - essentials.sell.all
+            - essentials.sell.bulk
             - essentials.warps.Plains
             - essentials.warps.Desert
             - essentials.warps.Battlefield
@@ -494,6 +503,11 @@ servers:
             - -auction.limit.3
             - essentials.kits.astro+
             - essentials.kit.astro+
+            - essentials.exp
+            - essentials.sell
+            - essentials.hand
+            - essentials.sell.all
+            - essentials.sell.bulk
             - -auction.limit.4
             - auction.limit.8
             - arkkit.command.fill
