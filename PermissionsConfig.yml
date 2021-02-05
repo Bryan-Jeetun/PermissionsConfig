@@ -356,17 +356,17 @@ servers:
             - betterenderchest.command.openinv.self
             - betterenderchest.command.viewinv.self
             - essentials.joinfullserver
-        interstellar:
-            prefix: '&9&l<&b&lInterstellar&9&l>&b'
+        apollo:
+            prefix: '&9&l<&b&lApollo&9&l>&b'
             permissions:
             - enchantments.max.18
-            - playervaults.amount.50
-            - greatkits.kits.Interstellar
+            - playervaults.amount.999
+            - astrocore.apollo
             - essentials.repair.all
             - essentials.warps.Interstellar
-            - essentials.sethome.multiple.interstellar
+            - essentials.sethome.multiple.apollo
             inheritance:
-            - fallout_plus
+            - astro+
         media:
             prefix: '&f&l<&d&lMedia&f&l>&d'
             permissions:
