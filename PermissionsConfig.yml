@@ -576,6 +576,7 @@ servers:
             - staff.queue.bypass
             - minebans.alerts
             - litebans.mute
+            - astrocore.staff
             - staff.sc
             - staff.chat
             - litebans.tempmute
@@ -634,6 +635,7 @@ servers:
             - litebans.tempban
             - litebans.ban.temp
             - bm.command.ban.offline
+            - astrocore.staff
             - bm.command.tempban.offline
             - bm.command.ban
             - bm.command.banoffline
@@ -661,6 +663,7 @@ servers:
             - bm.command.tempban.offline
             - litebans.ban
             - bm.command.ban
+            - astrocore.staff
             - bm.command.banoffline
             - bm.command.bminfo
             - bm.command.kick
@@ -685,6 +688,7 @@ servers:
             - essentials.teleport.timer.bypass
             - bm.command.banoffline
             - bm.command.bminfo
+            - astrocore.staff
             - bm.command.kick
             - bm.command.mute
             - bm.command.tempban
@@ -714,6 +718,7 @@ servers:
             - coreprotect.lookup.chat
             - coreprotect.lookup
             - vulcan.alerts
+            - astrocore.staff
             - coreprotect.lookup.username
             - coreprotect.lookup.block
             - coreprotect.lookup.session
@@ -781,6 +786,7 @@ servers:
             - banteam
             permissions:
             - essentials.gamemode.all
+            - astrocore.staff
         admin:
             prefix: '&f&l<&9&lAdmin&f&l>&9'
             inheritance:
@@ -788,6 +794,7 @@ servers:
             permissions:
             - vanish.*
             - -shiva.notify
+            - astrocore.staff
             - -shiva.modnotify
         manager:
             prefix: '&f&l<&4&lManager&f&l>&4'
@@ -797,6 +804,7 @@ servers:
             - '*'
             - vanish.*
             - -shiva.notify
+            - astrocore.staff
             - -shiva.modnotify
         developer:
             prefix: '&f&l<&d&lDeveloper&f&l>&d'
