@@ -554,6 +554,7 @@ servers:
             - enchantments.max.18
             - playervaults.amount.999
             - astrocore.apollo
+            - essentials.joinfullserver
             - essentials.repair.all
             - essentials.kit.apollo
             - essentials.kits.apollo
