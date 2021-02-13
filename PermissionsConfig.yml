@@ -10,6 +10,8 @@ servers:
             - essentials.exp
             - essentials.sell
             - essentials.hand
+            - essentials.kit.beta
+            - essentials.kits.beta
             - essentials.sell.hand
             - essentials.sell.all
             - essentials.sell.bulk
