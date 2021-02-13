@@ -164,6 +164,8 @@ servers:
             - mcmmo.ability.mining.*
             - mcmmo.ability.repair.*
             - mcmmo.ability.taming.*
+            - essentials.kits.beta
+            - essentials.kit.beta
             - mcmmo.ability.woodcutting.*
             - mcmmo.commands.inspect.offline
             - modifyworld.*
