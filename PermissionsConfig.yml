@@ -87,7 +87,6 @@ servers:
             - essentials.sethome
             - essentials.signs.use.*
             - essentials.spawn
-            - essentials.suicide
             - essentials.tpa
             - essentials.tpaccept
             - essentials.tpdeny
@@ -147,7 +146,6 @@ servers:
             - essentials.sethome
             - essentials.signs.use.*
             - essentials.spawn
-            - essentials.suicide
             - essentials.tpa
             - essentials.tpaccept
             - essentials.tpdeny
@@ -353,7 +351,6 @@ servers:
             - essentials.sethome
             - essentials.signs.use.*
             - essentials.spawn
-            - essentials.suicide
             - essentials.tpa
             - essentials.tpaccept
             - essentials.tpdeny
@@ -413,7 +410,6 @@ servers:
             - essentials.sethome
             - essentials.signs.use.*
             - essentials.spawn
-            - essentials.suicide
             - essentials.tpa
             - essentials.tpaccept
             - essentials.tpdeny
