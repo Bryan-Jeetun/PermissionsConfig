@@ -5,6 +5,7 @@ servers:
             - clientcomms.node.freeroam
             - clientcomms.node.breadcrumbs
             - schematica.save
+            - banana.command.fps
             - schematica.load
             - essentials.gc
             - essentials.exp
