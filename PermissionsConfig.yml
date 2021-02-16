@@ -8,6 +8,7 @@ servers:
             - banana.command.fps
             - schematica.load
             - arkkit.command.fill
+            - spark.tps
             - essentials.gc
             - essentials.exp
             - essentials.back.ondeath
