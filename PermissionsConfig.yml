@@ -14,6 +14,7 @@ servers:
             - essentials.back.ondeath
             - essentials.sell
             - essentials.hand
+            - enchantments.max.18
             - essentials.kit.beta
             - essentials.kits.beta
             - essentials.sell.hand
@@ -506,6 +507,7 @@ servers:
             permissions:
             - -auction.limit.1
             - -auction.limit.2
+            - enchantments.max.18
             - -auction.limit.3
             - essentials.kits.astro+
             - essentials.kit.astro+
