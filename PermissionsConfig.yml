@@ -602,6 +602,7 @@ servers:
             - minebans.alerts
             - litebans.mute
             - astrocore.staff
+            - securestaff.pin
             - staff.sc
             - staff.chat
             - litebans.tempmute
@@ -659,6 +660,7 @@ servers:
             - minebans.commands.silentmute
             - litebans.tempban
             - litebans.ban.temp
+            - securestaff.pin
             - bm.command.ban.offline
             - astrocore.staff
             - bm.command.tempban.offline
@@ -683,6 +685,7 @@ servers:
             - arkkit.teleportsanity.ignore
             - bm.command.ban.offline
             - litebans.ban
+            - securestaff.pin
             - litebans.tempban
             - litebans.ipban
             - litebans.tempban
@@ -708,6 +711,7 @@ servers:
             - minebans.commands.silentmute
             - cosmicseen.seen.alts
             - arkkit.teleportsanity.ignore
+            - securestaff.pin
             - bm.command.ban.offline
             - litebans.kick
             - bm.command.tempban.offline
@@ -745,6 +749,7 @@ servers:
             - coreprotect.lookup.chat
             - coreprotect.lookup
             - vulcan.alerts
+            - securestaff.pin
             - astrocore.staff
             - coreprotect.lookup.username
             - coreprotect.lookup.block
@@ -819,6 +824,7 @@ servers:
             - essentials.tp
             - essentials.tphere
             - astrocore.staff
+            - securestaff.pin
         admin:
             prefix: '&f&l<&9&lAdmin&f&l>&9'
             inheritance:
@@ -826,6 +832,7 @@ servers:
             permissions:
             - vanish.*
             - -shiva.notify
+            - securestaff.pin
             - astrocore.staff
             - -shiva.modnotify
         manager:
@@ -837,6 +844,7 @@ servers:
             - vanish.*
             - -shiva.notify
             - astrocore.staff
+            - securestaff.pin
             - -shiva.modnotify
         developer:
             prefix: '&f&l<&d&lDeveloper&f&l>&d'
@@ -845,6 +853,7 @@ servers:
             permissions:
             - '*'
             - 'minebans.commands.unban'
+            - securestaff.pin
             - 'bm.command.unban'
         owner:
             prefix: '&f&l<&4&lOwner&f&l>&4'
