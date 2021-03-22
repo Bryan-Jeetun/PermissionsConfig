@@ -601,8 +601,8 @@ servers:
             - staff.queue.bypass
             - minebans.alerts
             - litebans.mute
+            - securestaff.staff
             - astrocore.staff
-            - securestaff.pin
             - staff.sc
             - staff.chat
             - litebans.tempmute
@@ -660,7 +660,7 @@ servers:
             - minebans.commands.silentmute
             - litebans.tempban
             - litebans.ban.temp
-            - securestaff.pin
+            - securestaff.staff
             - bm.command.ban.offline
             - astrocore.staff
             - bm.command.tempban.offline
@@ -685,7 +685,7 @@ servers:
             - arkkit.teleportsanity.ignore
             - bm.command.ban.offline
             - litebans.ban
-            - securestaff.pin
+            - securestaff.staff
             - litebans.tempban
             - litebans.ipban
             - litebans.tempban
@@ -711,7 +711,7 @@ servers:
             - minebans.commands.silentmute
             - cosmicseen.seen.alts
             - arkkit.teleportsanity.ignore
-            - securestaff.pin
+            - securestaff.staff
             - bm.command.ban.offline
             - litebans.kick
             - bm.command.tempban.offline
@@ -749,7 +749,7 @@ servers:
             - coreprotect.lookup.chat
             - coreprotect.lookup
             - vulcan.alerts
-            - securestaff.pin
+            - securestaff.staff
             - astrocore.staff
             - coreprotect.lookup.username
             - coreprotect.lookup.block
@@ -824,7 +824,7 @@ servers:
             - essentials.tp
             - essentials.tphere
             - astrocore.staff
-            - securestaff.pin
+            - securestaff.staff
         admin:
             prefix: '&f&l<&9&lAdmin&f&l>&9'
             inheritance:
@@ -832,9 +832,8 @@ servers:
             permissions:
             - vanish.*
             - -shiva.notify
-            - securestaff.pin
+            - securestaff.staff
             - astrocore.staff
-            - -shiva.modnotify
         manager:
             prefix: '&f&l<&4&lManager&f&l>&4'
             inheritance:
@@ -844,7 +843,7 @@ servers:
             - vanish.*
             - -shiva.notify
             - astrocore.staff
-            - securestaff.pin
+            - securestaff.staff
             - -shiva.modnotify
         developer:
             prefix: '&f&l<&d&lDeveloper&f&l>&d'
@@ -853,7 +852,7 @@ servers:
             permissions:
             - '*'
             - 'minebans.commands.unban'
-            - securestaff.pin
+            - securestaff.staff
             - 'bm.command.unban'
         owner:
             prefix: '&f&l<&4&lOwner&f&l>&4'
