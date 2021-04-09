@@ -11,6 +11,8 @@ servers:
             - spark.tps
             - essentials.gc
             - essentials.exp
+            - essentials.kit.carnage
+            - essentials.kits.carnage
             - essentials.back.ondeath
             - essentials.sell
             - essentials.hand
