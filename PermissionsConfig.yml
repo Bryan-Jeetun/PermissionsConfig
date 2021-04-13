@@ -9,6 +9,8 @@ servers:
             - schematica.load
             - arkkit.command.fill
             - spark.tps
+            - winespigot.command.fps
+            - winespigot.command.graph
             - essentials.gc
             - essentials.exp
             - essentials.kit.carnage
