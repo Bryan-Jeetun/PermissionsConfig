@@ -752,6 +752,7 @@ servers:
             - cosmicpvp.command.envoy
             - coreprotect.lookup.chat
             - coreprotect.lookup
+            - verus.staff.alerts
             - vulcan.alerts
             - securestaff.staff
             - astrocore.staff
