@@ -12,6 +12,10 @@ servers:
             - winespigot.command.fps
             - winespigot.command.graph
             - essentials.gc
+            - essentials.kit.once
+            - essentials.kits.once
+            - essentials.kit.starter
+            - essentials.kits.starter
             - essentials.exp
             - essentials.kit.carnage
             - essentials.kits.carnage
