@@ -617,6 +617,7 @@ servers:
             - litebans.warnings
             - litebans.checkban
             - litebans.clearchat
+            - litebans.tempban
             - litebans.mutechat
             - litebans.notify.mute
             - litebans.notify.muted
