@@ -760,6 +760,7 @@ servers:
             - verus.staff.alerts
             - vulcan.alerts
             - staff.*
+            - astrostaff.revive
             - securestaff.staff
             - astrocore.staff
             - coreprotect.lookup.username
