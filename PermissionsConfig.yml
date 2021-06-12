@@ -759,6 +759,7 @@ servers:
             - coreprotect.lookup
             - verus.staff.alerts
             - vulcan.alerts
+            - inventoryrollback.*
             - staff.*
             - astrostaff.revive
             - securestaff.staff
