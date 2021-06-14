@@ -8,6 +8,8 @@ servers:
             - banana.command.fps
             - schematica.load
             - arkkit.command.fill
+            - prunes.command.sync
+            - prunes.command.nitro
             - spark.tps
             - winespigot.command.fps
             - winespigot.command.graph
